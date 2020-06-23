@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/CR17OU/web-%20pipeline/_apis/build/status/thierrytropee.mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/CR17OU/web-%20pipeline/_build/latest?definitionId=2&branchName=master)
 
 # Contributing
 
